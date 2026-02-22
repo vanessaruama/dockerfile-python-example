@@ -1,3 +1,4 @@
+#python -m pip install art
 from art import text2art
 
 # Desenha uma baleia usando arte ASCII
